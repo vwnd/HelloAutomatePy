@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "speckle-automate-py"
+name = "hello-automate-py"
 version = "0.1.0"
 description = "Example function for Speckle Automate using specklepy"
 authors = ["Gergő Jedlicska <gergo@jedlicska.com>"]

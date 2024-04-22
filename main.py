@@ -55,7 +55,7 @@ def automate_function(
     ]
     count = len(objects_with_forbidden_speckle_type)
 
-    print("count", count)
+    print("Hello from my automate python function. Object count:", count)
 
     if count > 0:
         # this is how a run is marked with a failure cause
